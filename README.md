@@ -1,5 +1,7 @@
-# Getting Started with Create React App
-
+# Jason's Personal Website
+## Description
+This is a personal static website hosted with GitHub Pages.
+Site URL: [My Page](https://jason-xly.github.io/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
